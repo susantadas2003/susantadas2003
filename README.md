@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" src="https://i.imgur.com/gbBPbQz.jpg" height="450px"/></a>
+<a href="#"><img width="100%" src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg height="450px"/></a>
 
-<h1 align="center">Hi <img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg" width="30px">, I'm Susanta Das</h1>
+<h1 align="center">Hi <img src="" width="30px">, I'm Susanta Das</h1>
 <h3 align="center">I'm a Full Stack Developer from India.</h3>
 
 
